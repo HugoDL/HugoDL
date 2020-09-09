@@ -11,11 +11,11 @@
 <img src="https://gpvc.arturio.dev/HugoDL" alt="profile views">
 
 
-<h4> Working to improve this GitHub profile </h4><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<h4>Working to improve this GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 
 
-- 🔭 I’m currently working on PagSeguro PagBank 
-- 🌱 I’m currently learning Python, Terraform and Node.js
+- 🔭 I'm currently working on PagSeguro PagBank 
+- 🌱 I'm currently learning Python, Terraform and Node.js
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with CSS -->
 - 💬 Ask me about AWS, Homebridge, Pi-Hole and Containers! 
