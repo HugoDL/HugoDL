@@ -1,7 +1,7 @@
 
-
-
-![](hello-there.gif)
+<p align="center">
+<img align="center" alt="GIF" src="https://media1.tenor.com/images/e7dcebe1d599f7c085fe320a73a109aa/tenor.gif?itemid=7897520" />
+</p>
 
 
 
@@ -22,7 +22,7 @@
 - ⚡ Fun fact: I'm a Pokémon trainer
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=HugoDL&amp;show_icons=true" alt="GitHub Stats"></p>
 
+![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=HugoDL&show_icons=true&hide=stars,issues)
 
 
