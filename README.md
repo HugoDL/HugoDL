@@ -14,7 +14,7 @@
 <h4>Working to improve this GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 
 
-- 🔭 I'm currently working on PagSeguro PagBank 
+- 🔭 I'm currently working at PagSeguro PagBank 
 - 🌱 I'm learning Python, Terraform and Node.js
 - 💬 Ask me about AWS, Homebridge, Pi-Hole and Containers! 
 - 📫 How to reach me: [Telegram](https://t.me/HugoDL)
