@@ -4,11 +4,11 @@
 </p>
 
 
-
-
-[![Twitter: Hugo000](https://img.shields.io/twitter/follow/Hugo000?style=social)](https://twitter.com/Hugo000)
-[![GitHub HugoDL](https://img.shields.io/github/followers/HugoDL?label=follow&style=social)](https://github.com/HugoDL)
-<img src="https://gpvc.arturio.dev/HugoDL" alt="profile views">
+<p align="center">
+  <a href="https://twitter.com/Hugo000" target="_blank"><img src="https://img.shields.io/twitter/follow/Hugo000?style=social"></a>
+  <a href="https://github.com/HugoDL" target="_blank"><img src="https://img.shields.io/github/followers/HugoDL?label=follow&style=social"></a>
+  <img src="https://gpvc.arturio.dev/HugoDL" alt="profile views">
+</p>
 
 
 <h4>Working to improve this GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
@@ -23,6 +23,6 @@
 
 
 
-![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=HugoDL&show_icons=true&hide=stars,issues)
+![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=HugoDL&show_icons=true&theme=default&show_bg=1&hide=stars,issues&count_private=true)
 
 
