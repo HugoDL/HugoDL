@@ -1,5 +1,6 @@
 ### Hello there! 👋
 
+![](hello-there.gif)
 
 - 🔭 I’m currently working on PagSeguro PagBank
 - 🌱 I’m currently learning Python and Node.js
