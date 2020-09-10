@@ -14,10 +14,10 @@
 <h4>Working to improve this GitHub profile <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 
 
-- 🔭 I'm currently working at PagSeguro PagBank 
-- 🌱 I'm learning Python, Terraform and Node.js
+- 🔭 I'm currently working on <a href="https://hugodl.me" target="_blank">https://hugodl.me</a>
+- 🧐 I'm learning Python, Terraform and Node.js
 - 💬 Ask me about AWS, Homebridge, Pi-Hole and Containers! 
-- 📫 How to reach me: [Telegram](https://t.me/HugoDL)
+- 📫 How to reach me: <a href="https://t.me/HugoDL" target="_blank">Telegram</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Pokémon trainer
 
