@@ -22,7 +22,4 @@
 - ⚡ Fun fact: I'm a Pokémon trainer
 
 
-
 ![Hugo's github stats](https://github-readme-stats.vercel.app/api?username=HugoDL&show_icons=true&theme=default&show_bg=1&hide=stars,issues&count_private=true)
-
-
