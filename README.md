@@ -16,7 +16,7 @@
 
 - 🔭 I'm currently working on <a href="https://hugodl.me" target="_blank">https://hugodl.me</a>
 - 🧐 I'm learning Python and Terraform
-- 💬 Ask me about AWS, Homebridge, Pi-Hole and Containers! 
+- 💬 Ask me about AWS, Raspberry Pi, Containers and games! 
 - 📫 How to reach me: <a href="https://t.me/HugoDL" target="_blank">Telegram</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Pokémon trainer
