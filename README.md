@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://twitter.com/Hugo000" target="_blank"><img src="https://img.shields.io/twitter/follow/Hugo000?style=social&logo=twitter"></a>
   <a href="https://github.com/HugoDL" target="_blank"><img src="https://img.shields.io/github/followers/HugoDL?label=follow&style=social&logo=github"></a>
-  <img src="https://gpvc.arturio.dev/HugoDL" alt="profile views">
+  <img src="https://komarev.com/ghpvc/?username=HugoDL" alt="profile views">
 </p>
 
 
